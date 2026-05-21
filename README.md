@@ -1,4 +1,4 @@
 # Git-demo
-This my first git repo
-<bp>
+This my first git repo.
+<br>
 Author - Akhil
